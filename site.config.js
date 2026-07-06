@@ -26,7 +26,7 @@ const SITE = {
     eyebrow: "37 Gill Lane \u00b7 Iselin, NJ \u00b7 by Metropark",
     h1: ["Classic pies.", "Desi specials."],
     copy: "A neighborhood takeout pizzeria where the classics share the oven with chicken tikka, paneer tikka, Bombay bhaji, and kutchi dabeli pies \u2014 every pie made to order.",
-    facts: ["Chicken & Paneer Tikka pies", "Delivery & takeout on Grubhub"],
+    facts: ["Chicken & Paneer Tikka pies", "4\u2605 on Grubhub \u00b7 delivery & takeout"],
     poster: "assets/stage-tikka.jpg",
     posterCaption: "Tikka pies \u2014 the house signature, out of the oven"
   },
